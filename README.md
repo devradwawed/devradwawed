@@ -1,4 +1,4 @@
-### Hi there 👋🏻 I'm Mohamed Amr
+### Hi there 👋🏻 I'm Radwa Awed
 
 <a href="https://twitter.com/DevRadwa">
   <img align="left" alt="DevRadwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
