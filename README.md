@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋🏻 I'm Mohamed Amr
 
-<!--
-**devradwawed/devradwawed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/devmohamedamr">
+  <img align="left" alt="mohmed amr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/devmohamedamr">
+  <img align="left" alt="mohamed amr LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/devmohamedamr">
+  <img align="left" alt="mohamed amr Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Mohamed Amr, Backend Developer 🚀 from Egypt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐱‍🏍 Founder of Itrax Academy ,
+- 📫 You can reach me on : dev.mohamedamr@gmail.com
+
+### 💎 Fav Quotes: 
+- "Think twice, code once". 
+- "Life is about Solving Problems".
+
+### 👨🏻‍💻 Language and tools: 
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></img>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></img>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></img>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></img>
